@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+*.out
+**/__pycache__
+**/experiments
+**/experiments_past
+**/result
+**/visualize
+**/yaml/*PROB*
+**/.ipynb_checkpoints/
+**/dataset/dynamic
