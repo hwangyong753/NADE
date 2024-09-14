@@ -1,4 +1,7 @@
 # Climate Modeling with Neural Advection-Diffusion Equation
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/climate-modeling-with-neural-advection/weather-forecasting-on-la)](https://paperswithcode.com/sota/weather-forecasting-on-la?p=climate-modeling-with-neural-advection)
+
 This repository concludes the code and data of our NADE model: [Climate Modeling with Neural Advection-Diffusion Equation].
 
 
