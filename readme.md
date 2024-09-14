@@ -31,6 +31,18 @@ Example:
 python Run.py --dataset NOAA --mode train --device cuda
 ```
 
+###  Model details
+- The model supports different types: 
+    - `AD` (Advection-Diffusion),
+    - `diff` (Diffusion only),
+    - `adv` (Advection only), 
+    - `k` (constant coefficient), 
+    - `withoutf` (without uncertainty modeling),
+    - `onlyf` (only uncertainty modeling).
+- Time dependence and time division can be enabled/disabled via configuration.
+- Supports various loss functions: MAE, MSE, and masked MAE.
+- Learning rate decay and early stopping are implemented.
+
 ## Datasets
 We provide experiments on real-world datasets:
 - Los Angeles (LA) and San Diego (SD) climate data
