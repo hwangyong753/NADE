@@ -10,7 +10,7 @@ This repository contains the implementation of NADE (Neural Advection-Diffusion 
 >
 > :bulb: To see other papers from BigDyL, please visit [BigDyL homepage](https://sites.google.com/view/npark) or [awesome-bigdyl](https://github.com/bigdyl-kaist/awesome-bigdyl) to see the list of papers with links to papers and code.
 >
-> -:mag_right: If you're interested in the application of reaction-diffusion equations to graph neural networks for node classification tasks, we recommend checking out our [GREAD (Graph Neural Reaction-Diffusion Networks)](https://proceedings.mlr.press/v202/choi23a) model. GREAD explores a comprehensive set of reaction equations in combination with diffusion processes, offering potential benefits in mitigating oversmoothing and handling varying levels of graph homophily. For more details, please refer to the [GREAD GitHub repository](https://github.com/jeongwhanchoi/gread) and [paper](https://proceedings.mlr.press/v202/choi23a).
+> :mag_right: If you're interested in the application of reaction-diffusion equations to graph neural networks for node classification tasks, we recommend checking out our [GREAD (Graph Neural Reaction-Diffusion Networks)](https://proceedings.mlr.press/v202/choi23a) model. GREAD explores a comprehensive set of reaction equations in combination with diffusion processes, offering potential benefits in mitigating oversmoothing and handling varying levels of graph homophily. For more details, please refer to the [GREAD GitHub repository](https://github.com/jeongwhanchoi/gread) and [paper](https://proceedings.mlr.press/v202/choi23a).
 
 ## Overview
 <img src="asset/overview_NADE.png" width="800">
