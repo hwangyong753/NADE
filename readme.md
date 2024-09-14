@@ -16,6 +16,15 @@ NADE combines the advection-diffusion equation with neural networks to model cli
 - Neural network-based uncertainty modeling
 - Integration with the advection-diffusion equation
 
+### Comparison between NDE and NADE
+| Feature | NDE | NADE |
+| --- | --- | --- |
+| Base Equation | Diffusion Equation | Advection-Diffusion Equation|
+|Physical Processes Modeled| Diffusion | Advection and Diffusion | 
+| Edge Weight | Learning Heat capacity generation | Diffusion coefficients and velocities |
+| Uncertainty Modeling | ✓ | ✓ | 
+
+NADE builds upon the success of NDE by incorporating advection processes, allowing it to model a wider range of climate phenomena with improved accuracy.
 
 ## Usage
 To run the model:
