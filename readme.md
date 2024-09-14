@@ -6,6 +6,8 @@
 
 This repository contains the implementation of NADE (Neural Advection-Diffusion Equation), a novel deep learning approach for climate modeling as described in our paper "[Climate Modeling with Neural Advection-Diffusion Equation](https://github.com/hwangyong753/NADE)".
 
+:arrow_right: NADE is the successor to our previous model, [Neural Diffusion Equation (NDE)](https://ieeexplore.ieee.org/abstract/document/9679162). Please refer to the [NDE GitHub repository](https://github.com/jeehyunHwang/Neural-Diffusion-Equation) and [paper](https://ieeexplore.ieee.org/abstract/document/9679162) for more details.
+
 ## Overview
 <img src="asset/overview_NADE.png" width="600">
 NADE combines the advection-diffusion equation with neural networks to model climate systems. Key features include:
