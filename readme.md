@@ -22,3 +22,17 @@ NADE combines the advection-diffusion equation with neural networks to model cli
 $ cd model
 $ python Run.py
 ```
+
+## Citation
+If you use this code in your research, please cite our paper:
+```
+@article{choi2023climate,
+title={Climate modeling with neural advection--diffusion equation},
+author={Choi, Hwangyong and Choi, Jeongwhan and Hwang, Jeehyun and Lee, Kookjin and Lee, Dongeun and Park, Noseong},
+journal={Knowledge and Information Systems},
+volume={65},
+number={6},
+pages={2403--2427},
+year={2023},
+publisher={Springer}
+}```
