@@ -4,7 +4,7 @@
  
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/climate-modeling-with-neural-advection/weather-forecasting-on-la)](https://paperswithcode.com/sota/weather-forecasting-on-la?p=climate-modeling-with-neural-advection)  [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/climate-modeling-with-neural-advection/weather-forecasting-on-sd)](https://paperswithcode.com/sota/weather-forecasting-on-sd?p=climate-modeling-with-neural-advection)  [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/climate-modeling-with-neural-advection/weather-forecasting-on-noaa-atmospheric)](https://paperswithcode.com/sota/weather-forecasting-on-noaa-atmospheric?p=climate-modeling-with-neural-advection)
 
-This repository contains the implementation of NADE (Neural Advection-Diffusion Equation), a novel deep learning approach for climate modeling as described in our paper "Climate Modeling with Neural Advection-Diffusion Equation".
+This repository contains the implementation of NADE (Neural Advection-Diffusion Equation), a novel deep learning approach for climate modeling as described in our paper "[Climate Modeling with Neural Advection-Diffusion Equation](https://github.com/hwangyong753/NADE)".
 
 ## Overview
 <img src="asset/overview_NADE.png" width="600">
