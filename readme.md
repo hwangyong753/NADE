@@ -8,6 +8,8 @@ This repository contains the implementation of NADE (Neural Advection-Diffusion 
 
 :arrow_right: NADE is the successor to our previous model, [Neural Diffusion Equation (NDE)](https://ieeexplore.ieee.org/abstract/document/9679162). Please refer to the [NDE GitHub repository](https://github.com/jeehyunHwang/Neural-Diffusion-Equation) and [paper](https://ieeexplore.ieee.org/abstract/document/9679162) for more details.
 
+:bulb: To see other papers from BigDyL, please visit [BigDyL homepage](https://sites.google.com/view/npark) or [awesome-bigdyl](https://github.com/bigdyl-kaist/awesome-bigdyl) to see the list of papers with links to papers and code.
+
 ## Overview
 <img src="asset/overview_NADE.png" width="800">
 NADE combines the advection-diffusion equation with neural networks to model climate systems. Key features include:
