@@ -19,8 +19,13 @@ NADE combines the advection-diffusion equation with neural networks to model cli
 To run the model:
 ```
 $ cd model
-$ python Run.py
+$ python Run.py --dataset DATASET_NAME --mode MODE --device DEVICE
 ```
+where:
+- `DATASET_NAME` can be 'LA', 'SD', or 'NOAA'
+- `MODE` can be 'train' or 'test'
+- `DEVICE` can be 'cuda' or 'cpu'
+
 
 ## Datasets
 We provide experiments on real-world datasets:
