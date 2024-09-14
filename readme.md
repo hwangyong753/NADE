@@ -27,7 +27,7 @@ We provide experiments on real-world datasets:
 - Los Angeles (LA) and San Diego (SD) climate data
 - NOAA temperature data
 
-See the `data/` directory for more details.
+Each dataset has its own configuration file (e.g., `LA.conf`, `SD.conf`, `NOAA.conf`) in `model` directory.
 
 ## Citation
 If you use this code in your research, please cite our paper:
