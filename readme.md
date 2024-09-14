@@ -22,6 +22,12 @@ NADE combines the advection-diffusion equation with neural networks to model cli
 $ cd model
 $ python Run.py
 ```
+## Datasets
+We provide experiments on real-world datasets:
+- Los Angeles (LA) and San Diego (SD) climate data
+- NOAA temperature data
+
+See the `data/` directory for more details.
 
 ## Citation
 If you use this code in your research, please cite our paper:
