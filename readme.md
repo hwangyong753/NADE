@@ -26,6 +26,10 @@ where:
 - `MODE` can be 'train' or 'test'
 - `DEVICE` can be 'cuda' or 'cpu'
 
+Example:
+```
+python Run.py --dataset NOAA --mode train --device cuda
+```
 
 ## Datasets
 We provide experiments on real-world datasets:
