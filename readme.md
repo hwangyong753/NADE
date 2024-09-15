@@ -67,7 +67,7 @@ Each dataset has its own configuration file (e.g., `LA.conf`, `SD.conf`, `NOAA.c
 
 ## Citation
 If you use this code in your research, please cite our paper:
-```
+```bibtex
 @article{choi2023climate,
 title={Climate modeling with neural advection--diffusion equation},
 author={Choi, Hwangyong and Choi, Jeongwhan and Hwang, Jeehyun and Lee, Kookjin and Lee, Dongeun and Park, Noseong},
@@ -77,7 +77,8 @@ number={6},
 pages={2403--2427},
 year={2023},
 publisher={Springer}
-}```
+}
+```
 
 ## Star History
 
